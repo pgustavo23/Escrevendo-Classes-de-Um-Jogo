@@ -11,10 +11,10 @@ Desafio de Projeto DIO
 
 <br>
 
-**Links úteis:**
-:point_right: [Aprenda a clonar repositórios](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-:point_right: [Faça o dowload do VSCode](https://code.visualstudio.com/download)
-:point_right: [Baixe o Node.js](https://nodejs.org/en/download/current)
+**Links úteis:**<br>
+:point_right: [Aprenda a clonar repositórios](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) <br>
+:point_right: [Faça o dowload do VSCode](https://code.visualstudio.com/download) <br>
+:point_right: [Baixe o Node.js](https://nodejs.org/en/download/current) <br>
 
 <hr>
 
@@ -52,10 +52,10 @@ além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
 
-se mago -> no ataque exibir (usou magia)
-se guerreiro -> no ataque exibir (usou espada)
-se monge -> no ataque exibir (usou artes marciais)
-se ninja -> no ataque exibir (usou shuriken)
+se mago -> no ataque exibir (usou magia)<br>
+se guerreiro -> no ataque exibir (usou espada)<br>
+se monge -> no ataque exibir (usou artes marciais)<br>
+se ninja -> no ataque exibir (usou shuriken)<br>
 
 ## Saída
 
