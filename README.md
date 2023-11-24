@@ -3,19 +3,21 @@ Desafio de Projeto DIO
 
 ### :computer: Como rodar o programa em sua máquina?
 
->1. Certifique-se de ter o git instalado em sua máquina;
->2. Utilize uma IDE juntamente ao Node.Js;
->3. Clonar o repositório;
->4. Após clonar o projeto para seu PC, utilizando o Terminal da IDE use o comando `node js/main.js` para executar o código;
->5. As entradas de dados podem ser feitas diretamente pelo terminal;
+>1. Faça um fork do repositório para seu github.
+>2. Certifique-se de ter o git instalado em sua máquina;
+>3. Utilize uma IDE juntamente ao Node.Js;
+>4. Clonar o repositório;
+>5. Após clonar o projeto para seu PC, utilizando o Terminal da IDE use o comando `node js/main.js` para executar o código;
+>6. As entradas de dados podem ser feitas diretamente pelo terminal;
 
 <br>
 
 **Links úteis:**<br>
 :point_right: [Aprenda a clonar repositórios](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) <br>
 :point_right: [Faça o dowload do VSCode](https://code.visualstudio.com/download) <br>
-:point_right: [Baixe o Node.js](https://nodejs.org/en/download/current) <br>
+:point_right: [Baixe o Node.js](https://nodejs.org/en/download/current) <br><br>
 
+⭐ Não se esqueça de deixar sua estrela nesse projeto!
 <hr>
 
 # Entendendo o Desafio
